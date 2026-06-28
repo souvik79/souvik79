@@ -1,5 +1,6 @@
 # Hi there 👋 I'm Souvik Basu
 
+
 ### Senior AI Software Engineer | AI Automation | Cloud & Backend Engineer
 
 I build production-grade AI-powered software, backend platforms, cloud-native applications, and intelligent automation solutions.
@@ -7,6 +8,23 @@ I build production-grade AI-powered software, backend platforms, cloud-native ap
 With 18+ years of software engineering experience, I specialise in designing scalable systems using Python, Laravel, Node.js, AWS, Docker and modern AI technologies. My recent work focuses on LLM-powered applications, AI agents, RAG systems, workflow automation and developer productivity.
 
 ---
+
+## 📈 GitHub Stats
+
+![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=souvik79&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souvik79&layout=compact)
+
+---
+
+![](https://komarev.com/ghpvc/?username=souvik79)
+
+---
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souvik79)
+
+---
+
 
 ## 🚀 AI-Assisted Engineering
 
@@ -55,11 +73,6 @@ PostgreSQL • MySQL • Redis • SQLite
 
 ---
 
-## 📈 GitHub Stats
-
-![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=souvik79&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souvik79&layout=compact)
 
 ## 🌱 Currently Exploring
 
@@ -70,6 +83,8 @@ PostgreSQL • MySQL • Redis • SQLite
 - AI-Driven Developer Tooling
 
 ---
+
+
 
 ## 📫 Let's Connect
 
