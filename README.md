@@ -55,6 +55,12 @@ PostgreSQL • MySQL • Redis • SQLite
 
 ---
 
+## 📈 GitHub Stats
+
+![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=souvik79&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souvik79&layout=compact)
+
 ## 🌱 Currently Exploring
 
 - AI Coding Agents
