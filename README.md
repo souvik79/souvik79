@@ -141,7 +141,7 @@ https://www.linkedin.com/in/souvik-basu2013/
 
 🤝 Malt
 
-(Add your Malt profile URL)
+https://www.malt.uk/profile/souvikbasu
 
 ---
 
