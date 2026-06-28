@@ -1,191 +1,148 @@
 # 👋 Hi, I'm Souvik Basu
 
-### Senior AI Software Engineer • AI Automation • Cloud & Backend Engineer
+## AI Solutions Architect • AI-Native Software Engineering • Cloud Architecture
 
-> Building production-grade AI applications, intelligent automation, cloud-native platforms and scalable backend systems.
+I help organisations design and build **production-ready AI systems** that automate business processes, modernise enterprise platforms, and deliver measurable business value.
 
----
-
-## 👨‍💻 About Me
-
-I'm a Senior Software Engineer with **18+ years of experience** building enterprise applications, cloud platforms and automation solutions.
-
-My recent work focuses on **AI-first software engineering**, where I combine modern LLMs with strong backend architecture to build intelligent products that solve real business problems.
-
-I specialise in Python, Laravel, Node.js, AWS, Docker, automation, data pipelines, AI agents and LLM-powered applications.
+With more than **18 years of software engineering and solution architecture experience**, I combine deep backend engineering expertise with modern AI technologies to transform ideas into scalable, secure and maintainable production systems.
 
 ---
 
-## 🤖 AI-Assisted Engineering
+# 🚀 What I Do
 
-AI is a core part of my software development workflow.
+I specialise in designing and delivering enterprise-grade solutions across:
 
-I use **Claude Code** extensively with:
+* Agentic AI applications
+* AI-powered workflow automation
+* Retrieval-Augmented Generation (RAG)
+* Intelligent document processing
+* Backend platforms and APIs
+* Cloud-native architectures
+* Enterprise integrations
+* Data engineering and automation
 
-- Custom Skills
-- Project Memory
-- Guardrails
-- AI Pair Programming
-- Architecture Planning
-- Refactoring Support
-- Structured Design Reviews
-
-This helps me design, build and maintain production-quality software faster while keeping architecture, reliability and maintainability at the centre.
-
----
-
-## 🚀 What I Build
-
-- 🤖 AI Agents & Autonomous Workflows
-- 🧠 LLM Applications & RAG Systems
-- ⚡ Backend APIs & Microservices
-- ☁️ Cloud-Native Applications
-- 🔄 Workflow & Business Process Automation
-- 📊 Data Engineering & Large-Scale Web Scraping
-- 🔗 Third-Party API Integrations
-- 📈 Developer Productivity Tools
+Rather than building AI demos, I focus on delivering systems that organisations can confidently deploy into production.
 
 ---
 
-## 🛠 Tech Stack
+# 🤖 AI-Native Software Engineering
 
-### Languages
+AI is integrated into every stage of my engineering process.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+My primary development workflow is centred around **Claude Code**, not as a code generator, but as an engineering partner that accelerates software delivery while maintaining production-quality standards.
 
-### Backend
+My workflow includes:
 
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+* Solution architecture and system design
+* Project memory for long-running development
+* Reusable engineering skills
+* Structured guardrails
+* AI pair programming
+* Large-scale refactoring
+* Code reviews
+* Documentation
+* Test generation
+* Technical investigation
 
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
-
-### AI & Automation
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
-![Claude Code](https://img.shields.io/badge/Claude_Code-black?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-blue?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-purple?style=for-the-badge)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+This allows me to spend more time solving business problems and less time performing repetitive engineering tasks, while maintaining code quality, security and long-term maintainability.
 
 ---
 
-## 📈 GitHub Statistics
+# 💼 Core Expertise
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=souvik79&show_icons=true&theme=github_dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvik79&layout=compact&theme=github_dark" />
-</p>
+### AI & Intelligent Systems
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souvik79&theme=github-dark-blue" />
-</p>
+* Agentic AI
+* AI Agents
+* Claude Code
+* OpenAI
+* LangChain
+* MCP
+* RAG
+* Prompt Engineering
+* LLM Integrations
 
----
+### Backend Engineering
 
-## 🌟 Featured Work
+* Python
+* FastAPI
+* Laravel
+* Node.js
+* REST APIs
+* Microservices
 
-### 🌐 Portfolio Website
+### Cloud & Infrastructure
 
-Professional portfolio showcasing my engineering background, projects and AI-focused work.
+* AWS
+* Docker
+* Kubernetes
+* CI/CD
+* GitHub Actions
 
-🔗 https://souvik79.github.io/souvik-basu/
+### Data & Automation
 
----
-
-### 🤖 AI Engineering
-
-Work focused on:
-
-- AI Agents
-- LLM Applications
-- Claude Code Workflows
-- RAG Systems
-- Intelligent Automation
-- Developer Productivity
-
----
-
-### ☁️ Cloud & Backend Engineering
-
-Experience building:
-
-- AWS-based applications
-- Backend APIs
-- Microservices
-- Dockerised applications
-- Scalable automation systems
+* Enterprise Web Scraping
+* ETL Pipelines
+* API Integrations
+* Workflow Automation
+* Data Engineering
 
 ---
 
-### 📊 Data & Automation
+# 🌍 Industries
 
-Experience with:
+I've delivered solutions across:
 
-- Enterprise web scraping
-- ETL pipelines
-- API integrations
-- Data automation workflows
-- Large-scale data extraction
-
----
-
-## 🏆 Certifications
-
-✅ AWS Certified AI Practitioner
+* Insurance
+* Financial Services
+* Healthcare
+* E-commerce
+* Enterprise Software
 
 ---
 
-## 🌱 Currently Exploring
+# 🛠 Engineering Philosophy
 
-- Autonomous AI Agents
-- Multi-Agent Systems
-- Claude Code Workflows
-- Production LLM Architecture
-- AI-Driven Developer Tooling
-- Cloud-Native AI Applications
+I believe great software comes from combining:
+
+* Strong software engineering
+* Thoughtful architecture
+* Cloud-native design
+* AI-assisted development
+* Automation-first thinking
+
+Technology is only valuable when it solves real business problems.
 
 ---
 
-## 📫 Connect With Me
+# 🌱 Current Focus
 
-🌍 **Portfolio**  
+I'm currently exploring and building production systems around:
+
+* Agentic AI
+* Multi-Agent Systems
+* MCP
+* Claude Code Workflows
+* Enterprise AI Architecture
+* AI Developer Productivity
+* Intelligent Automation
+
+---
+
+# 📫 Connect
+
+🌐 Portfolio
+
 https://souvik79.github.io/souvik-basu/
 
-💻 **GitHub**  
-https://github.com/souvik79
+💼 LinkedIn
 
-💼 **LinkedIn**  
-Add your LinkedIn profile here
+https://www.linkedin.com/in/souvik-basu2013/
 
-🤝 **Malt**  
-Add your Malt profile here
+🤝 Malt
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=souvik79&style=for-the-badge" />
-</p>
+(Add your Malt profile URL)
 
 ---
 
-<p align="center">
-  <strong>Building intelligent software that combines strong engineering principles with the power of modern AI.</strong>
-</p>
+> *Designing intelligent software with solid engineering principles, modern AI, and production-first architecture.*
